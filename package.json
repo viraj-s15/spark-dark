@@ -7,6 +7,10 @@
 	"engines": {
 		"vscode": "^1.72.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/viraj-s15/spark-dark"
+	},
 	"categories": [
 		"Themes"
 	],
