@@ -1,0 +1,22 @@
+{
+	"name": "spark-dark",
+	"displayName": "spark-dark",
+	"description": "A vibrant dark theme",
+	"version": "0.0.1",
+	"publisher": "Veer1516",
+	"engines": {
+		"vscode": "^1.72.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Spark Dark ",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Spark Dark -color-theme.json"
+			}
+		]
+	}
+}
